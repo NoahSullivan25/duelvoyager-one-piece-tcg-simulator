@@ -93,16 +93,16 @@ No. DuelVoyager is an independent, unofficial fan-made project and is not affili
 
 ## Bug Reports and Feature Requests
 
-Bug reports, card interaction issues, replay problems, browser compatibility reports, and feature suggestions are handled through the official DuelVoyager Discord.
+Bug reports, card interaction issues, deck-import problems, replay issues, browser compatibility reports, and feature suggestions are handled through the official DuelVoyager Discord.
 
-Join the [DuelVoyager Discord](https://discord.gg/MCYXRjaZkx) and use the designated report-a-bug channel.
+Join the [DuelVoyager Discord](https://discord.gg/MCYXRjaZkx) and post in the designated report-a-bug channel.
 
-When reporting a bug, include the affected cards, your browser, the steps needed to reproduce the issue, and screenshots or replay information when possible.
+When reporting a bug, include the affected cards, your browser, clear reproduction steps, and screenshots or replay information when possible.
 
 ## Community
 
 - **Play:** [DuelVoyager.com](https://duelvoyager.com)
-- **Discord:** [Join the DuelVoyager community](https://discord.gg/MCYXRjaZkx)
+- **Discord:** [Join the official DuelVoyager community](https://discord.gg/MCYXRjaZkx)
 - **GitHub Issues:** Use the Issues tab in this repository for public reports and suggestions
 
 ## Updates and Release Notes
