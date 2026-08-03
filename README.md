@@ -6,6 +6,12 @@
 
 No download is required.
 
+## DuelVoyager Gameplay
+
+[![DuelVoyager One Piece TCG simulator online gameplay showing a multiplayer match and replay interface](assets/duelvoyager-one-piece-tcg-simulator-gameplay.png)](https://duelvoyager.com)
+
+*DuelVoyager browser-based One Piece TCG simulator gameplay featuring an active online match, card interactions, and match replay controls.*
+
 ---
 
 ## Online OPTCG Simulator
