@@ -103,7 +103,6 @@ When reporting a bug, include the affected cards, your browser, clear reproducti
 
 - **Play:** [DuelVoyager.com](https://duelvoyager.com)
 - **Discord:** [Join the official DuelVoyager community](https://discord.gg/MCYXRjaZkx)
-- **GitHub Issues:** Use the Issues tab in this repository for public reports and suggestions
 
 ## Updates and Release Notes
 
